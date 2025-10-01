@@ -1,10 +1,10 @@
-# mygov
+# Camera and Cropping
 
-A new Flutter project.
+Basic template for Camera and Cropping
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Copas aja dari sini ya, biar cepet
 
 A few resources to get you started if this is your first Flutter project:
 
